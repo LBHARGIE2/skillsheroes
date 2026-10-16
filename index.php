@@ -28,6 +28,8 @@
             <p>De mooiste bestemmingen wereldwijd. Voor iedere reiziger de perfecte reis.</p>
             <a href="#bestemmingen" class="bekijk">Bekijk bestemmingen</a>
         </div>
+        
+
     </section>
 
     <main id="bestemmingen" class="grid-container">
